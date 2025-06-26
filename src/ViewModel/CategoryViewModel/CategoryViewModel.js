@@ -1,0 +1,1 @@
+// Category ViewModel Structure 

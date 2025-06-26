@@ -1,0 +1,1 @@
+// Base ViewModel Structure 
